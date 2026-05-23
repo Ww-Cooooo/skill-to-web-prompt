@@ -1,0 +1,12 @@
+{
+  "name": "Ww-Cooooo/skill-to-web-prompt",
+  "description": "将 Claude Code 技能转化为网页 AI (DeepSeek/豆包/ChatGPT) 可用的提示词 | Convert Claude Code skills into prompts for web-based AI tools",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "skill-to-web-prompt",
+      "description": "将 Claude Code 技能转化为网页 AI 可用的提示词，并给出诚实的转化分析",
+      "path": "skill/SKILL.md"
+    }
+  ]
+}
