@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-to-web-prompt": {
+      "source": "Ww-Cooooo/skill-to-web-prompt",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "cc2c513e4b07aaddd1a010f1bd2261e31b0ccbce52d9e7b5f68ae1ff3a155961"
+    }
+  }
+}
